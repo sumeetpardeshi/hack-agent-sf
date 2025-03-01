@@ -51,7 +51,7 @@ An AI-powered travel assistant that makes travel planning and management effortl
 - **Proactive Intelligence**: Anticipates needs with timely alerts
 - **Contextual Understanding**: Remembers preferences for personalized assistance
 
-## Why Users Love Twil-Flare Travels
+## Why Users will Love Twil-Flare Travels
 
 - **Universal Accessibility**: Works on any phone with SMS capability
 - **Zero Learning Curve**: Natural language interface for immediate use
@@ -60,9 +60,3 @@ An AI-powered travel assistant that makes travel planning and management effortl
 
 
 
-- Node.js (v18 or higher recommended)
-- npm or yarn package manager
-
-### Installation
-
-1. Clone the repository:
