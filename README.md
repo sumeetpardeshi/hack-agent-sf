@@ -10,7 +10,7 @@ An AI-powered travel assistant that makes travel planning and management effortl
    - Parses flight itineraries, hotel bookings, and event tickets
    - Identifies key travel details like dates, times, and locations
    - Works with PDFs, emails, and screenshots
-   - Powered by Unstructured's document parsing API
+   - Powered by OpenAI, Unstructured's document parsing API
 
 2. **Natural Language Understanding**
    - Understands natural language questions about your trip
