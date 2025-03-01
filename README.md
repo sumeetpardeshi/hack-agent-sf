@@ -1,6 +1,6 @@
 # Twil-Flare Travels
 
-An AI-powered travel assistant that makes travel planning and management effortless through SMS/MMS messaging.
+An AI-powered travel assistant that makes travel planning and management effortless through Web/SMS/MMS/Whatsapp messaging.
 
 ## 🌟 Key Features
 
